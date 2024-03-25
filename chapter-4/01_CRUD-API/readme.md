@@ -18,13 +18,13 @@ endpoint yang harus dibuat:
 | Zahid | 3 |
 | Akhdan | 4 |
 | Arif | 5 |
-| Bagus | 6 |
+| Bagus | 11 |
 | Rizqi | 7 |
 | Dewangga | 8 |
 | Hanafi | 9 |
 | Haziq | 10 |
 | Krisna | 11 |
-| Rama | 12 |
+| Rama | 13 |
 | Kevin | 13 |
 | Shakti | 14 |
 | Mirza | 15 |
@@ -33,7 +33,7 @@ endpoint yang harus dibuat:
 | Faiq | 3 |
 | Naufal | 4 |
 | Putri | 5 |
-| Regis | 6 |
+| Regis | 11 |
 | Rengga | 7 |
 | Rizki | 8 |
 | Samuel | 9 |
@@ -85,12 +85,12 @@ endpoint yang harus dibuat:
 |---------------|----------|---------|--------|---------|
 | Number        | String   | String  | Number | Boolean |
 
-### 1. Vehicles
+### 10. Vehicles
 | id | brand    | model  | year  | is_available |
 |------------|----------|--------|-------|--------------|
 | Number     | String   | String | Number| Boolean      |
 
-### 10. Houses
+### 11. Houses
 | id | address  | owner_name | num_rooms | has_garden |
 |----------|----------|------------|-----------|------------|
 | Number   | String   | String     | Number    | Boolean    |
